@@ -1,1 +1,1 @@
-Search for a specified keyword in all the text files in the specified directory.
+Search for a keyword in all the text files in a directory.
